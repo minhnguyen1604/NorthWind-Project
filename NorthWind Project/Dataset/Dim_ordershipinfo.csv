@@ -1,0 +1,501 @@
+orderID,requiredDate,shippedDate,freight,shipName,shipAddress,shipCity,shipRegion,shipPostalCode,shipCountry
+10532,1997-06-06 00:00:00.000,1997-05-12 00:00:00.000,74.46,Eastern Connection,35 King George,London,NULL,WX3 6FW,UK
+11047,1998-05-22 00:00:00.000,1998-05-01 00:00:00.000,46.62,Eastern Connection,35 King George,London,NULL,WX3 6FW,UK
+10400,1997-01-29 00:00:00.000,1997-01-16 00:00:00.000,83.93,Eastern Connection,35 King George,London,NULL,WX3 6FW,UK
+10726,1997-11-17 00:00:00.000,1997-12-05 00:00:00.000,16.56,Eastern Connection,35 King George,London,NULL,WX3 6FW,UK
+10364,1997-01-07 00:00:00.000,1996-12-04 00:00:00.000,71.97,Eastern Connection,35 King George,London,NULL,WX3 6FW,UK
+11024,1998-05-13 00:00:00.000,1998-04-20 00:00:00.000,74.36,Eastern Connection,35 King George,London,NULL,WX3 6FW,UK
+11056,1998-05-12 00:00:00.000,1998-05-01 00:00:00.000,278.96,Eastern Connection,35 King George,London,NULL,WX3 6FW,UK
+10987,1998-04-28 00:00:00.000,1998-04-06 00:00:00.000,185.48,Eastern Connection,35 King George,London,NULL,WX3 6FW,UK
+10472,1997-04-09 00:00:00.000,1997-03-19 00:00:00.000,4.20,Seven Seas Imports,90 Wadhurst Rd.,London,NULL,OX15 4NB,UK
+10804,1998-01-27 00:00:00.000,1998-01-07 00:00:00.000,27.33,Seven Seas Imports,90 Wadhurst Rd.,London,NULL,OX15 4NB,UK
+10359,1996-12-19 00:00:00.000,1996-11-26 00:00:00.000,288.43,Seven Seas Imports,90 Wadhurst Rd.,London,NULL,OX15 4NB,UK
+10377,1997-01-06 00:00:00.000,1996-12-13 00:00:00.000,22.21,Seven Seas Imports,90 Wadhurst Rd.,London,NULL,OX15 4NB,UK
+10523,1997-05-29 00:00:00.000,1997-05-30 00:00:00.000,77.63,Seven Seas Imports,90 Wadhurst Rd.,London,NULL,OX15 4NB,UK
+10547,1997-06-20 00:00:00.000,1997-06-02 00:00:00.000,178.43,Seven Seas Imports,90 Wadhurst Rd.,London,NULL,OX15 4NB,UK
+10388,1997-01-16 00:00:00.000,1996-12-20 00:00:00.000,34.86,Seven Seas Imports,90 Wadhurst Rd.,London,NULL,OX15 4NB,UK
+10800,1998-01-23 00:00:00.000,1998-01-05 00:00:00.000,137.44,Seven Seas Imports,90 Wadhurst Rd.,London,NULL,OX15 4NB,UK
+10869,1998-03-04 00:00:00.000,1998-02-09 00:00:00.000,143.28,Seven Seas Imports,90 Wadhurst Rd.,London,NULL,OX15 4NB,UK
+10538,1997-06-12 00:00:00.000,1997-05-16 00:00:00.000,4.87,B's Beverages,Fauntleroy Circus,London,NULL,EC2 5NT,UK
+10578,1997-07-22 00:00:00.000,1997-07-25 00:00:00.000,29.60,B's Beverages,Fauntleroy Circus,London,NULL,EC2 5NT,UK
+11023,1998-04-28 00:00:00.000,1998-04-24 00:00:00.000,123.83,B's Beverages,Fauntleroy Circus,London,NULL,EC2 5NT,UK
+10484,1997-04-21 00:00:00.000,1997-04-01 00:00:00.000,6.88,B's Beverages,Fauntleroy Circus,London,NULL,EC2 5NT,UK
+10943,1998-04-08 00:00:00.000,1998-03-19 00:00:00.000,2.17,B's Beverages,Fauntleroy Circus,London,NULL,EC2 5NT,UK
+10289,1996-09-23 00:00:00.000,1996-08-28 00:00:00.000,22.77,B's Beverages,Fauntleroy Circus,London,NULL,EC2 5NT,UK
+10471,1997-04-08 00:00:00.000,1997-03-18 00:00:00.000,45.59,B's Beverages,Fauntleroy Circus,London,NULL,EC2 5NT,UK
+10599,1997-08-26 00:00:00.000,1997-07-21 00:00:00.000,29.98,B's Beverages,Fauntleroy Circus,London,NULL,EC2 5NT,UK
+10539,1997-06-13 00:00:00.000,1997-05-23 00:00:00.000,12.36,B's Beverages,Fauntleroy Circus,London,NULL,EC2 5NT,UK
+10947,1998-04-10 00:00:00.000,1998-03-16 00:00:00.000,3.26,B's Beverages,Fauntleroy Circus,London,NULL,EC2 5NT,UK
+10321,1996-10-31 00:00:00.000,1996-10-11 00:00:00.000,3.43,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10674,1997-10-16 00:00:00.000,1997-09-30 00:00:00.000,0.90,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10829,1998-02-10 00:00:00.000,1998-01-23 00:00:00.000,154.72,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10621,1997-09-02 00:00:00.000,1997-08-11 00:00:00.000,23.73,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10318,1996-10-29 00:00:00.000,1996-10-04 00:00:00.000,4.73,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10933,1998-04-03 00:00:00.000,1998-03-16 00:00:00.000,54.15,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10315,1996-10-24 00:00:00.000,1996-10-03 00:00:00.000,41.76,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10798,1998-01-23 00:00:00.000,1998-01-05 00:00:00.000,2.33,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10473,1997-03-27 00:00:00.000,1997-03-21 00:00:00.000,16.37,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10749,1997-12-18 00:00:00.000,1997-12-19 00:00:00.000,61.53,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10848,1998-02-20 00:00:00.000,1998-01-29 00:00:00.000,38.24,Consolidated Holdings,Berkeley Gardens 12  Brewery,London,NULL,WX1 6LT,UK
+10462,1997-03-31 00:00:00.000,1997-03-18 00:00:00.000,6.17,Consolidated Holdings,Berkeley Gardens 12  Brewery,London,NULL,WX1 6LT,UK
+10435,1997-03-18 00:00:00.000,1997-02-07 00:00:00.000,9.21,Consolidated Holdings,Berkeley Gardens 12  Brewery,London,NULL,WX1 6LT,UK
+10752,1997-12-22 00:00:00.000,1997-11-28 00:00:00.000,1.39,North/South,South House 300 Queensbridge,London,NULL,SW7 1RZ,UK
+11057,1998-05-27 00:00:00.000,1998-05-01 00:00:00.000,4.13,North/South,South House 300 Queensbridge,London,NULL,SW7 1RZ,UK
+10517,1997-05-22 00:00:00.000,1997-04-29 00:00:00.000,32.07,North/South,South House 300 Queensbridge,London,NULL,SW7 1RZ,UK
+10558,1997-07-02 00:00:00.000,1997-06-10 00:00:00.000,72.97,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10707,1997-10-30 00:00:00.000,1997-10-23 00:00:00.000,21.74,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10864,1998-03-02 00:00:00.000,1998-02-09 00:00:00.000,3.04,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10920,1998-03-31 00:00:00.000,1998-03-09 00:00:00.000,29.61,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10453,1997-03-21 00:00:00.000,1997-02-26 00:00:00.000,25.36,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10768,1998-01-05 00:00:00.000,1997-12-15 00:00:00.000,146.32,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10793,1998-01-21 00:00:00.000,1998-01-08 00:00:00.000,4.52,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10741,1997-11-28 00:00:00.000,1997-11-18 00:00:00.000,10.96,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10953,1998-03-30 00:00:00.000,1998-03-25 00:00:00.000,23.72,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10383,1997-01-13 00:00:00.000,1996-12-18 00:00:00.000,34.24,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10743,1997-12-15 00:00:00.000,1997-11-21 00:00:00.000,23.72,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10355,1996-12-13 00:00:00.000,1996-11-20 00:00:00.000,41.95,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+11016,1998-05-08 00:00:00.000,1998-04-13 00:00:00.000,33.80,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10821,1998-02-05 00:00:00.000,1998-01-15 00:00:00.000,36.68,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10369,1996-12-30 00:00:00.000,1996-12-09 00:00:00.000,195.68,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10329,1996-11-26 00:00:00.000,1996-10-23 00:00:00.000,191.67,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10432,1997-02-14 00:00:00.000,1997-02-07 00:00:00.000,4.34,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10974,1998-04-08 00:00:00.000,1998-04-03 00:00:00.000,12.96,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10756,1997-12-25 00:00:00.000,1997-12-02 00:00:00.000,73.21,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10385,1997-01-14 00:00:00.000,1996-12-23 00:00:00.000,30.96,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10349,1996-12-06 00:00:00.000,1996-11-15 00:00:00.000,8.63,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10271,1996-08-29 00:00:00.000,1996-08-30 00:00:00.000,4.54,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10894,1998-03-18 00:00:00.000,1998-02-20 00:00:00.000,116.13,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10815,1998-02-02 00:00:00.000,1998-01-14 00:00:00.000,14.62,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+11002,1998-05-04 00:00:00.000,1998-04-16 00:00:00.000,141.16,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10393,1997-01-22 00:00:00.000,1997-01-03 00:00:00.000,126.56,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10510,1997-05-16 00:00:00.000,1997-04-28 00:00:00.000,367.63,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10984,1998-04-27 00:00:00.000,1998-04-03 00:00:00.000,211.22,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10657,1997-10-02 00:00:00.000,1997-09-15 00:00:00.000,352.69,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+11031,1998-05-15 00:00:00.000,1998-04-24 00:00:00.000,227.22,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+11064,1998-05-29 00:00:00.000,1998-05-04 00:00:00.000,30.09,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10757,1997-12-25 00:00:00.000,1997-12-15 00:00:00.000,8.19,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10607,1997-08-19 00:00:00.000,1997-07-25 00:00:00.000,200.24,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10627,1997-09-22 00:00:00.000,1997-08-21 00:00:00.000,107.46,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+11030,1998-05-15 00:00:00.000,1998-04-27 00:00:00.000,830.75,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10612,1997-08-25 00:00:00.000,1997-08-01 00:00:00.000,544.08,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10603,1997-08-15 00:00:00.000,1997-08-08 00:00:00.000,48.77,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10941,1998-04-08 00:00:00.000,1998-03-20 00:00:00.000,400.81,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10713,1997-11-19 00:00:00.000,1997-10-24 00:00:00.000,167.05,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10847,1998-02-05 00:00:00.000,1998-02-10 00:00:00.000,487.57,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10398,1997-01-27 00:00:00.000,1997-01-09 00:00:00.000,89.16,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10700,1997-11-07 00:00:00.000,1997-10-16 00:00:00.000,65.10,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10748,1997-12-18 00:00:00.000,1997-11-28 00:00:00.000,232.55,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10678,1997-10-21 00:00:00.000,1997-10-16 00:00:00.000,388.98,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10711,1997-12-02 00:00:00.000,1997-10-29 00:00:00.000,52.41,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10714,1997-11-19 00:00:00.000,1997-10-27 00:00:00.000,24.49,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10882,1998-03-11 00:00:00.000,1998-02-20 00:00:00.000,23.10,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10722,1997-12-10 00:00:00.000,1997-11-04 00:00:00.000,74.58,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10555,1997-06-30 00:00:00.000,1997-06-04 00:00:00.000,252.49,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10983,1998-04-24 00:00:00.000,1998-04-06 00:00:00.000,657.54,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10324,1996-11-05 00:00:00.000,1996-10-10 00:00:00.000,214.27,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10440,1997-03-10 00:00:00.000,1997-02-28 00:00:00.000,86.53,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10452,1997-03-20 00:00:00.000,1997-02-26 00:00:00.000,140.26,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10706,1997-11-13 00:00:00.000,1997-10-21 00:00:00.000,135.63,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10594,1997-08-06 00:00:00.000,1997-07-16 00:00:00.000,5.24,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10441,1997-03-24 00:00:00.000,1997-03-14 00:00:00.000,73.02,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10680,1997-10-22 00:00:00.000,1997-09-26 00:00:00.000,26.61,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10305,1996-10-11 00:00:00.000,1996-10-09 00:00:00.000,257.62,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+11034,1998-06-01 00:00:00.000,1998-04-27 00:00:00.000,40.32,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10965,1998-04-17 00:00:00.000,1998-03-30 00:00:00.000,144.38,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10338,1996-11-22 00:00:00.000,1996-10-29 00:00:00.000,84.21,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10855,1998-02-24 00:00:00.000,1998-02-04 00:00:00.000,170.97,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10808,1998-01-29 00:00:00.000,1998-01-09 00:00:00.000,45.53,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10262,1996-08-19 00:00:00.000,1996-07-25 00:00:00.000,48.29,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10401,1997-01-29 00:00:00.000,1997-01-10 00:00:00.000,12.51,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10314,1996-10-23 00:00:00.000,1996-10-04 00:00:00.000,74.16,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10889,1998-03-16 00:00:00.000,1998-02-23 00:00:00.000,280.61,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10988,1998-04-28 00:00:00.000,1998-04-10 00:00:00.000,61.14,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+11000,1998-05-04 00:00:00.000,1998-04-14 00:00:00.000,55.12,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10479,1997-04-16 00:00:00.000,1997-03-21 00:00:00.000,708.95,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10569,1997-07-14 00:00:00.000,1997-07-11 00:00:00.000,58.98,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+11077,1998-06-03 00:00:00.000,NULL,8.53,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10294,1996-09-27 00:00:00.000,1996-09-05 00:00:00.000,147.26,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10346,1996-12-17 00:00:00.000,1996-11-08 00:00:00.000,142.08,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10564,1997-07-08 00:00:00.000,1997-06-16 00:00:00.000,13.75,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10272,1996-08-30 00:00:00.000,1996-08-06 00:00:00.000,98.03,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10761,1997-12-30 00:00:00.000,1997-12-08 00:00:00.000,18.66,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10820,1998-02-04 00:00:00.000,1998-01-13 00:00:00.000,37.52,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10316,1996-10-25 00:00:00.000,1996-10-08 00:00:00.000,150.15,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10598,1997-08-11 00:00:00.000,1997-07-18 00:00:00.000,44.42,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10852,1998-02-09 00:00:00.000,1998-01-30 00:00:00.000,174.05,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+11006,1998-05-05 00:00:00.000,1998-04-15 00:00:00.000,25.19,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10616,1997-08-28 00:00:00.000,1997-08-05 00:00:00.000,116.53,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10681,1997-10-23 00:00:00.000,1997-09-30 00:00:00.000,76.13,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10589,1997-08-01 00:00:00.000,1997-07-14 00:00:00.000,4.42,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+11061,1998-06-11 00:00:00.000,NULL,14.01,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10936,1998-04-06 00:00:00.000,1998-03-18 00:00:00.000,33.68,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10816,1998-02-03 00:00:00.000,1998-02-04 00:00:00.000,719.78,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10617,1997-08-28 00:00:00.000,1997-08-04 00:00:00.000,18.53,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+11040,1998-05-20 00:00:00.000,NULL,18.84,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10528,1997-05-20 00:00:00.000,1997-05-09 00:00:00.000,3.35,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10656,1997-10-02 00:00:00.000,1997-09-10 00:00:00.000,57.15,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10574,1997-07-17 00:00:00.000,1997-06-30 00:00:00.000,37.60,Trail's Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA
+10577,1997-08-04 00:00:00.000,1997-06-30 00:00:00.000,25.41,Trail's Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA
+10822,1998-02-05 00:00:00.000,1998-01-16 00:00:00.000,7.00,Trail's Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA
+10307,1996-10-15 00:00:00.000,1996-09-25 00:00:00.000,0.56,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10867,1998-03-17 00:00:00.000,1998-02-11 00:00:00.000,1.93,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10665,1997-10-09 00:00:00.000,1997-09-17 00:00:00.000,26.31,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+11018,1998-05-11 00:00:00.000,1998-04-16 00:00:00.000,11.65,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10544,1997-06-18 00:00:00.000,1997-05-30 00:00:00.000,24.91,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10883,1998-03-12 00:00:00.000,1998-02-20 00:00:00.000,0.53,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10662,1997-10-07 00:00:00.000,1997-09-18 00:00:00.000,1.28,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10317,1996-10-28 00:00:00.000,1996-10-10 00:00:00.000,12.69,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10861,1998-02-27 00:00:00.000,1998-02-17 00:00:00.000,14.93,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10723,1997-11-27 00:00:00.000,1997-11-25 00:00:00.000,21.72,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10504,1997-05-09 00:00:00.000,1997-04-18 00:00:00.000,59.13,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10693,1997-10-20 00:00:00.000,1997-10-10 00:00:00.000,139.34,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10696,1997-11-19 00:00:00.000,1997-10-14 00:00:00.000,102.55,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10269,1996-08-14 00:00:00.000,1996-08-09 00:00:00.000,4.56,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10483,1997-04-21 00:00:00.000,1997-04-25 00:00:00.000,15.28,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+11066,1998-05-29 00:00:00.000,1998-05-04 00:00:00.000,44.72,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10596,1997-08-08 00:00:00.000,1997-08-12 00:00:00.000,16.34,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10469,1997-04-07 00:00:00.000,1997-03-14 00:00:00.000,60.18,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10740,1997-12-11 00:00:00.000,1997-11-25 00:00:00.000,81.88,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+11032,1998-05-15 00:00:00.000,1998-04-23 00:00:00.000,606.19,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10344,1996-11-29 00:00:00.000,1996-11-05 00:00:00.000,23.29,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10904,1998-03-24 00:00:00.000,1998-02-27 00:00:00.000,162.95,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10775,1998-01-09 00:00:00.000,1997-12-26 00:00:00.000,20.25,The Cracker Box,55 Grizzly Peak Rd.,Butte,MT,59801,USA
+11003,1998-05-04 00:00:00.000,1998-04-08 00:00:00.000,14.91,The Cracker Box,55 Grizzly Peak Rd.,Butte,MT,59801,USA
+10624,1997-09-04 00:00:00.000,1997-08-19 00:00:00.000,94.80,The Cracker Box,55 Grizzly Peak Rd.,Butte,MT,59801,USA
+10884,1998-03-12 00:00:00.000,1998-02-13 00:00:00.000,90.97,Let's Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA
+10735,1997-12-08 00:00:00.000,1997-11-21 00:00:00.000,45.97,Let's Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA
+10579,1997-07-23 00:00:00.000,1997-07-04 00:00:00.000,13.73,Let's Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA
+10719,1997-11-24 00:00:00.000,1997-11-05 00:00:00.000,51.44,Let's Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA
+10482,1997-04-18 00:00:00.000,1997-04-10 00:00:00.000,7.48,Lazy K Kountry Store,12 Orchestra Terrace,Walla Walla,WA,99362,USA
+10545,1997-06-19 00:00:00.000,1997-06-26 00:00:00.000,11.92,Lazy K Kountry Store,12 Orchestra Terrace,Walla Walla,WA,99362,USA
+10310,1996-10-18 00:00:00.000,1996-09-27 00:00:00.000,17.52,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA
+10708,1997-11-28 00:00:00.000,1997-11-05 00:00:00.000,2.96,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA
+10992,1998-04-29 00:00:00.000,1998-04-03 00:00:00.000,4.27,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA
+10805,1998-01-27 00:00:00.000,1998-01-09 00:00:00.000,237.34,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA
+10600,1997-08-13 00:00:00.000,1997-07-21 00:00:00.000,45.13,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA
+10375,1997-01-03 00:00:00.000,1996-12-09 00:00:00.000,20.12,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA
+10660,1997-10-06 00:00:00.000,1997-10-15 00:00:00.000,111.29,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA
+10394,1997-01-22 00:00:00.000,1997-01-03 00:00:00.000,30.34,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA
+10415,1997-02-12 00:00:00.000,1997-01-24 00:00:00.000,0.20,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA
+10366,1997-01-09 00:00:00.000,1996-12-30 00:00:00.000,10.14,GalerÃ­a del gastronÃ³mo,Rambla de CataluÃ±a, 23,Barcelona,NULL,8022
+10426,1997-02-24 00:00:00.000,1997-02-06 00:00:00.000,18.69,GalerÃ­a del gastronÃ³mo,Rambla de CataluÃ±a, 23,Barcelona,NULL,8022
+10568,1997-07-11 00:00:00.000,1997-07-09 00:00:00.000,6.54,GalerÃ­a del gastronÃ³mo,Rambla de CataluÃ±a, 23,Barcelona,NULL,8022
+10887,1998-03-13 00:00:00.000,1998-02-16 00:00:00.000,1.25,GalerÃ­a del gastronÃ³mo,Rambla de CataluÃ±a, 23,Barcelona,NULL,8022
+10928,1998-04-02 00:00:00.000,1998-03-18 00:00:00.000,1.36,GalerÃ­a del gastronÃ³mo,Rambla de CataluÃ±a, 23,Barcelona,NULL,8022
+10362,1996-12-23 00:00:00.000,1996-11-28 00:00:00.000,96.04,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10663,1997-09-24 00:00:00.000,1997-10-03 00:00:00.000,113.15,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10871,1998-03-05 00:00:00.000,1998-02-10 00:00:00.000,112.27,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10730,1997-12-03 00:00:00.000,1997-11-14 00:00:00.000,20.12,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10732,1997-12-04 00:00:00.000,1997-11-07 00:00:00.000,16.97,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10932,1998-04-03 00:00:00.000,1998-03-24 00:00:00.000,134.64,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10755,1997-12-24 00:00:00.000,1997-11-28 00:00:00.000,16.71,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10331,1996-11-27 00:00:00.000,1996-10-21 00:00:00.000,10.19,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10340,1996-11-26 00:00:00.000,1996-11-08 00:00:00.000,166.31,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10511,1997-05-16 00:00:00.000,1997-04-21 00:00:00.000,350.64,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10827,1998-01-26 00:00:00.000,1998-02-06 00:00:00.000,63.54,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10940,1998-04-08 00:00:00.000,1998-03-23 00:00:00.000,19.77,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+11076,1998-06-03 00:00:00.000,NULL,38.28,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10525,1997-05-30 00:00:00.000,1997-05-23 00:00:00.000,11.06,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10715,1997-11-06 00:00:00.000,1997-10-29 00:00:00.000,63.20,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10876,1998-03-09 00:00:00.000,1998-02-12 00:00:00.000,60.42,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10470,1997-04-08 00:00:00.000,1997-03-14 00:00:00.000,64.56,Bon app',12, rue des Bouchers,Marseille,NULL,13008
+10917,1998-03-30 00:00:00.000,1998-03-11 00:00:00.000,8.29,Romero y tomillo,Gran VÃ­a, 1,Madrid,NULL,28001
+10306,1996-10-14 00:00:00.000,1996-09-23 00:00:00.000,7.56,Romero y tomillo,Gran VÃ­a, 1,Madrid,NULL,28001
+10282,1996-09-12 00:00:00.000,1996-08-21 00:00:00.000,12.69,Romero y tomillo,Gran VÃ­a, 1,Madrid,NULL,28001
+10281,1996-08-28 00:00:00.000,1996-08-21 00:00:00.000,2.94,Romero y tomillo,Gran VÃ­a, 1,Madrid,NULL,28001
+11013,1998-05-07 00:00:00.000,1998-04-10 00:00:00.000,32.99,Romero y tomillo,Gran VÃ­a, 1,Madrid,NULL,28001
+10326,1996-11-07 00:00:00.000,1996-10-14 00:00:00.000,77.92,BÃ³lido Comidas preparadas,C/ Araquil, 67,Madrid,NULL,28023
+10801,1998-01-26 00:00:00.000,1997-12-31 00:00:00.000,97.09,BÃ³lido Comidas preparadas,C/ Araquil, 67,Madrid,NULL,28023
+10970,1998-04-07 00:00:00.000,1998-04-24 00:00:00.000,16.16,BÃ³lido Comidas preparadas,C/ Araquil, 67,Madrid,NULL,28023
+10550,1997-06-25 00:00:00.000,1997-06-06 00:00:00.000,4.32,Godos Cocina TÃ­pica,C/ Romero, 33,Sevilla,NULL,41101
+10911,1998-03-26 00:00:00.000,1998-03-05 00:00:00.000,38.19,Godos Cocina TÃ­pica,C/ Romero, 33,Sevilla,NULL,41101
+10872,1998-03-05 00:00:00.000,1998-02-09 00:00:00.000,175.32,Godos Cocina TÃ­pica,C/ Romero, 33,Sevilla,NULL,41101
+10303,1996-10-09 00:00:00.000,1996-09-18 00:00:00.000,107.83,Godos Cocina TÃ­pica,C/ Romero, 33,Sevilla,NULL,41101
+10874,1998-03-06 00:00:00.000,1998-02-11 00:00:00.000,19.58,Godos Cocina TÃ­pica,C/ Romero, 33,Sevilla,NULL,41101
+10888,1998-03-16 00:00:00.000,1998-02-23 00:00:00.000,51.87,Godos Cocina TÃ­pica,C/ Romero, 33,Sevilla,NULL,41101
+11009,1998-05-06 00:00:00.000,1998-04-10 00:00:00.000,59.11,Godos Cocina TÃ­pica,C/ Romero, 33,Sevilla,NULL,41101
+10629,1997-09-09 00:00:00.000,1997-08-20 00:00:00.000,85.46,Godos Cocina TÃ­pica,C/ Romero, 33,Sevilla,NULL,41101
+11037,1998-05-19 00:00:00.000,1998-04-27 00:00:00.000,3.20,Godos Cocina TÃ­pica,C/ Romero, 33,Sevilla,NULL,41101
+10948,1998-04-10 00:00:00.000,1998-03-19 00:00:00.000,23.39,Godos Cocina TÃ­pica,C/ Romero, 33,Sevilla,NULL,41101
+10671,1997-10-15 00:00:00.000,1997-09-24 00:00:00.000,30.34,France restauration,54, rue Royale,Nantes,NULL,44000
+10971,1998-04-21 00:00:00.000,1998-04-02 00:00:00.000,121.82,France restauration,54, rue Royale,Nantes,NULL,44000
+10860,1998-02-26 00:00:00.000,1998-02-04 00:00:00.000,19.26,France restauration,54, rue Royale,Nantes,NULL,44000
+10683,1997-10-24 00:00:00.000,1997-10-01 00:00:00.000,4.40,Du monde entier,67, rue des Cinquante Otages,Nantes,NULL,44000
+10609,1997-08-21 00:00:00.000,1997-07-30 00:00:00.000,1.85,Du monde entier,67, rue des Cinquante Otages,Nantes,NULL,44000
+10890,1998-03-16 00:00:00.000,1998-02-18 00:00:00.000,32.76,Du monde entier,67, rue des Cinquante Otages,Nantes,NULL,44000
+10311,1996-10-04 00:00:00.000,1996-09-26 00:00:00.000,24.69,Du monde entier,67, rue des Cinquante Otages,Nantes,NULL,44000
+10763,1997-12-31 00:00:00.000,1997-12-08 00:00:00.000,37.35,Folies gourmandes,184, chaussÃ©e de Tournai,Lille,NULL,59000
+10480,1997-04-17 00:00:00.000,1997-03-24 00:00:00.000,1.35,Folies gourmandes,184, chaussÃ©e de Tournai,Lille,NULL,59000
+10789,1998-01-19 00:00:00.000,1997-12-31 00:00:00.000,100.60,Folies gourmandes,184, chaussÃ©e de Tournai,Lille,NULL,59000
+10408,1997-02-05 00:00:00.000,1997-01-14 00:00:00.000,11.26,Folies gourmandes,184, chaussÃ©e de Tournai,Lille,NULL,59000
+10634,1997-09-12 00:00:00.000,1997-08-21 00:00:00.000,487.38,Folies gourmandes,184, chaussÃ©e de Tournai,Lille,NULL,59000
+10265,1996-08-22 00:00:00.000,1996-08-12 00:00:00.000,55.28,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10436,1997-03-05 00:00:00.000,1997-02-11 00:00:00.000,156.66,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10826,1998-02-09 00:00:00.000,1998-02-06 00:00:00.000,7.09,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10566,1997-07-10 00:00:00.000,1997-06-18 00:00:00.000,88.40,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10297,1996-10-16 00:00:00.000,1996-09-10 00:00:00.000,5.74,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10360,1996-12-20 00:00:00.000,1996-12-02 00:00:00.000,131.70,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10628,1997-09-09 00:00:00.000,1997-08-20 00:00:00.000,30.36,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10559,1997-07-03 00:00:00.000,1997-06-13 00:00:00.000,8.05,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10449,1997-03-18 00:00:00.000,1997-02-27 00:00:00.000,53.30,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10584,1997-07-28 00:00:00.000,1997-07-04 00:00:00.000,59.14,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10679,1997-10-21 00:00:00.000,1997-09-30 00:00:00.000,27.94,Blondel pÃ¨re et fils,24, place KlÃ©ber,Strasbourg,NULL,67000
+10806,1998-01-28 00:00:00.000,1998-01-05 00:00:00.000,22.11,Victuailles en stock,2, rue du Commerce,Lyon,NULL,69004
+10546,1997-06-20 00:00:00.000,1997-05-27 00:00:00.000,194.72,Victuailles en stock,2, rue du Commerce,Lyon,NULL,69004
+10850,1998-03-06 00:00:00.000,1998-01-30 00:00:00.000,49.19,Victuailles en stock,2, rue du Commerce,Lyon,NULL,69004
+10478,1997-04-01 00:00:00.000,1997-03-26 00:00:00.000,4.81,Victuailles en stock,2, rue du Commerce,Lyon,NULL,69004
+10814,1998-02-02 00:00:00.000,1998-01-14 00:00:00.000,130.94,Victuailles en stock,2, rue du Commerce,Lyon,NULL,69004
+10843,1998-02-18 00:00:00.000,1998-01-26 00:00:00.000,9.26,Victuailles en stock,2, rue du Commerce,Lyon,NULL,69004
+10334,1996-11-18 00:00:00.000,1996-10-28 00:00:00.000,8.56,Victuailles en stock,2, rue du Commerce,Lyon,NULL,69004
+10450,1997-03-19 00:00:00.000,1997-03-11 00:00:00.000,7.23,Victuailles en stock,2, rue du Commerce,Lyon,NULL,69004
+10459,1997-03-27 00:00:00.000,1997-02-28 00:00:00.000,25.09,Victuailles en stock,2, rue du Commerce,Lyon,NULL,69004
+10251,1996-08-05 00:00:00.000,1996-07-15 00:00:00.000,41.34,Victuailles en stock,2, rue du Commerce,Lyon,NULL,69004
+10964,1998-04-17 00:00:00.000,1998-03-24 00:00:00.000,87.38,SpÃ©cialitÃ©s du monde,25, rue Lauriston,Paris,NULL,75016
+10738,1997-12-10 00:00:00.000,1997-11-18 00:00:00.000,2.91,SpÃ©cialitÃ©s du monde,25, rue Lauriston,Paris,NULL,75016
+11043,1998-05-20 00:00:00.000,1998-04-29 00:00:00.000,8.80,SpÃ©cialitÃ©s du monde,25, rue Lauriston,Paris,NULL,75016
+10907,1998-03-25 00:00:00.000,1998-02-27 00:00:00.000,9.19,SpÃ©cialitÃ©s du monde,25, rue Lauriston,Paris,NULL,75016
+10927,1998-04-02 00:00:00.000,1998-04-08 00:00:00.000,19.79,La corne d'abondance,67, avenue de l'Europe,Versailles,NULL,78000
+10973,1998-04-21 00:00:00.000,1998-03-27 00:00:00.000,15.17,La corne d'abondance,67, avenue de l'Europe,Versailles,NULL,78000
+10858,1998-02-26 00:00:00.000,1998-02-03 00:00:00.000,52.51,La corne d'abondance,67, avenue de l'Europe,Versailles,NULL,78000
+10972,1998-04-21 00:00:00.000,1998-03-26 00:00:00.000,0.02,La corne d'abondance,67, avenue de l'Europe,Versailles,NULL,78000
+10710,1997-11-17 00:00:00.000,1997-10-23 00:00:00.000,4.98,Franchi S.p.A.,Via Monte Bianco 34,Torino,NULL,10100,Italy
+11026,1998-05-13 00:00:00.000,1998-04-28 00:00:00.000,47.09,Franchi S.p.A.,Via Monte Bianco 34,Torino,NULL,10100,Italy
+10807,1998-01-28 00:00:00.000,1998-01-30 00:00:00.000,1.36,Franchi S.p.A.,Via Monte Bianco 34,Torino,NULL,10100,Italy
+10753,1997-12-23 00:00:00.000,1997-11-27 00:00:00.000,7.70,Franchi S.p.A.,Via Monte Bianco 34,Torino,NULL,10100,Italy
+11060,1998-05-28 00:00:00.000,1998-05-04 00:00:00.000,10.98,Franchi S.p.A.,Via Monte Bianco 34,Torino,NULL,10100,Italy
+10422,1997-02-19 00:00:00.000,1997-01-31 00:00:00.000,3.02,Franchi S.p.A.,Via Monte Bianco 34,Torino,NULL,10100,Italy
+11010,1998-05-07 00:00:00.000,1998-04-21 00:00:00.000,28.71,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10562,1997-07-07 00:00:00.000,1997-06-12 00:00:00.000,22.95,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10288,1996-09-20 00:00:00.000,1996-09-03 00:00:00.000,7.45,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10428,1997-02-25 00:00:00.000,1997-02-04 00:00:00.000,11.09,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10727,1997-12-01 00:00:00.000,1997-12-05 00:00:00.000,89.90,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10908,1998-03-26 00:00:00.000,1998-03-06 00:00:00.000,32.96,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10812,1998-01-30 00:00:00.000,1998-01-12 00:00:00.000,59.78,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10443,1997-03-12 00:00:00.000,1997-02-14 00:00:00.000,13.95,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10655,1997-10-01 00:00:00.000,1997-09-11 00:00:00.000,4.41,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10942,1998-04-08 00:00:00.000,1998-03-18 00:00:00.000,17.95,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+11062,1998-05-28 00:00:00.000,NULL,29.93,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10586,1997-07-30 00:00:00.000,1997-07-09 00:00:00.000,0.48,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,NULL,42100,Italy
+10784,1998-01-15 00:00:00.000,1997-12-22 00:00:00.000,70.09,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,NULL,24100,Italy
+10404,1997-01-31 00:00:00.000,1997-01-08 00:00:00.000,155.97,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,NULL,24100,Italy
+10754,1997-12-23 00:00:00.000,1997-11-27 00:00:00.000,2.38,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,NULL,24100,Italy
+10818,1998-02-04 00:00:00.000,1998-01-12 00:00:00.000,65.48,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,NULL,24100,Italy
+10275,1996-09-04 00:00:00.000,1996-08-09 00:00:00.000,26.93,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,NULL,24100,Italy
+10300,1996-10-07 00:00:00.000,1996-09-18 00:00:00.000,17.68,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,NULL,24100,Italy
+10635,1997-09-15 00:00:00.000,1997-08-21 00:00:00.000,47.46,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,NULL,24100,Italy
+10939,1998-04-07 00:00:00.000,1998-03-13 00:00:00.000,76.33,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,NULL,24100,Italy
+10950,1998-04-13 00:00:00.000,1998-03-23 00:00:00.000,2.50,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,NULL,24100,Italy
+10467,1997-04-03 00:00:00.000,1997-03-11 00:00:00.000,4.93,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,NULL,24100,Italy
+10841,1998-02-17 00:00:00.000,1998-01-29 00:00:00.000,424.30,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+10846,1998-03-05 00:00:00.000,1998-01-23 00:00:00.000,56.46,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+10458,1997-03-26 00:00:00.000,1997-03-04 00:00:00.000,147.06,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+10767,1998-01-02 00:00:00.000,1997-12-15 00:00:00.000,1.59,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+10302,1996-10-08 00:00:00.000,1996-10-09 00:00:00.000,6.27,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+10475,1997-04-11 00:00:00.000,1997-04-04 00:00:00.000,68.52,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+11038,1998-05-19 00:00:00.000,1998-04-30 00:00:00.000,29.59,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+10252,1996-08-06 00:00:00.000,1996-07-11 00:00:00.000,51.30,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+10885,1998-03-12 00:00:00.000,1998-02-18 00:00:00.000,5.64,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+11035,1998-05-18 00:00:00.000,1998-04-24 00:00:00.000,0.17,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+10463,1997-04-01 00:00:00.000,1997-03-06 00:00:00.000,14.78,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+10930,1998-04-17 00:00:00.000,1998-03-18 00:00:00.000,15.55,SuprÃªmes dÃ©lices,Boulevard Tirou, 255,Charleroi,NULL,B-6000
+10495,1997-05-01 00:00:00.000,1997-04-11 00:00:00.000,4.65,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,V3F 2K1,Canada
+10620,1997-09-02 00:00:00.000,1997-08-14 00:00:00.000,0.94,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,V3F 2K1,Canada
+10810,1998-01-29 00:00:00.000,1998-01-07 00:00:00.000,4.33,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,V3F 2K1,Canada
+10944,1998-03-26 00:00:00.000,1998-03-13 00:00:00.000,52.92,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+11027,1998-05-14 00:00:00.000,1998-04-20 00:00:00.000,52.52,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10949,1998-04-10 00:00:00.000,1998-03-17 00:00:00.000,74.44,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10982,1998-04-24 00:00:00.000,1998-04-08 00:00:00.000,14.01,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10918,1998-03-30 00:00:00.000,1998-03-11 00:00:00.000,48.83,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10411,1997-02-07 00:00:00.000,1997-01-21 00:00:00.000,23.65,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10389,1997-01-17 00:00:00.000,1996-12-24 00:00:00.000,47.42,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10742,1997-12-12 00:00:00.000,1997-11-18 00:00:00.000,243.73,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10410,1997-02-07 00:00:00.000,1997-01-15 00:00:00.000,2.40,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10492,1997-04-29 00:00:00.000,1997-04-11 00:00:00.000,62.89,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+11048,1998-05-22 00:00:00.000,1998-04-30 00:00:00.000,24.12,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+11045,1998-05-21 00:00:00.000,NULL,70.58,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10431,1997-02-13 00:00:00.000,1997-02-07 00:00:00.000,44.17,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10975,1998-04-22 00:00:00.000,1998-03-27 00:00:00.000,32.27,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10724,1997-12-11 00:00:00.000,1997-11-05 00:00:00.000,57.75,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10565,1997-07-09 00:00:00.000,1997-06-18 00:00:00.000,7.15,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10605,1997-08-18 00:00:00.000,1997-07-29 00:00:00.000,379.13,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10376,1997-01-06 00:00:00.000,1996-12-13 00:00:00.000,20.39,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10505,1997-05-12 00:00:00.000,1997-04-21 00:00:00.000,7.13,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10618,1997-09-12 00:00:00.000,1997-08-08 00:00:00.000,154.68,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10570,1997-07-15 00:00:00.000,1997-06-19 00:00:00.000,188.99,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10619,1997-09-01 00:00:00.000,1997-08-07 00:00:00.000,91.05,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10439,1997-03-07 00:00:00.000,1997-02-10 00:00:00.000,4.07,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10339,1996-11-25 00:00:00.000,1996-11-04 00:00:00.000,15.66,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10332,1996-11-28 00:00:00.000,1996-10-21 00:00:00.000,52.84,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10590,1997-08-04 00:00:00.000,1997-07-14 00:00:00.000,44.77,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10424,1997-02-20 00:00:00.000,1997-01-27 00:00:00.000,370.61,MÃ¨re Paillarde,43 rue St. Laurent,MontrÃ©al,QuÃ©bec,H1J 1C3,Canada
+10248,1996-08-01 00:00:00.000,1996-07-16 00:00:00.000,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,NULL,51100,France
+10737,1997-12-09 00:00:00.000,1997-11-18 00:00:00.000,7.79,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,NULL,51100,France
+10274,1996-09-03 00:00:00.000,1996-08-16 00:00:00.000,6.01,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,NULL,51100,France
+10295,1996-09-30 00:00:00.000,1996-09-10 00:00:00.000,1.15,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,NULL,51100,France
+10739,1997-12-10 00:00:00.000,1997-11-17 00:00:00.000,11.08,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,NULL,51100,France
+10923,1998-04-14 00:00:00.000,1998-03-13 00:00:00.000,68.26,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10454,1997-03-21 00:00:00.000,1997-02-25 00:00:00.000,2.74,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10358,1996-12-18 00:00:00.000,1996-11-27 00:00:00.000,19.64,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10350,1996-12-09 00:00:00.000,1996-12-03 00:00:00.000,64.19,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10631,1997-09-11 00:00:00.000,1997-08-15 00:00:00.000,0.87,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10832,1998-02-11 00:00:00.000,1998-01-19 00:00:00.000,43.26,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10787,1998-01-02 00:00:00.000,1997-12-26 00:00:00.000,249.93,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10413,1997-02-11 00:00:00.000,1997-01-16 00:00:00.000,95.66,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10371,1996-12-31 00:00:00.000,1996-12-24 00:00:00.000,0.45,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10425,1997-02-21 00:00:00.000,1997-02-14 00:00:00.000,7.93,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10493,1997-04-30 00:00:00.000,1997-04-10 00:00:00.000,10.64,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10610,1997-08-22 00:00:00.000,1997-08-06 00:00:00.000,26.78,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+11051,1998-05-25 00:00:00.000,NULL,2.79,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10500,1997-05-07 00:00:00.000,1997-04-17 00:00:00.000,42.68,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,NULL,31000,France
+10365,1996-12-25 00:00:00.000,1996-12-02 00:00:00.000,22.00,Antonio Moreno TaquerÃ­a,Mataderos  2312,MÃ©xico D.F.,NULL,05023,Mexico
+10682,1997-10-23 00:00:00.000,1997-10-01 00:00:00.000,36.13,Antonio Moreno TaquerÃ­a,Mataderos  2312,MÃ©xico D.F.,NULL,05023,Mexico
+10507,1997-05-13 00:00:00.000,1997-04-22 00:00:00.000,47.45,Antonio Moreno TaquerÃ­a,Mataderos  2312,MÃ©xico D.F.,NULL,05023,Mexico
+10677,1997-10-20 00:00:00.000,1997-09-26 00:00:00.000,4.03,Antonio Moreno TaquerÃ­a,Mataderos  2312,MÃ©xico D.F.,NULL,05023,Mexico
+10573,1997-07-17 00:00:00.000,1997-06-20 00:00:00.000,84.84,Antonio Moreno TaquerÃ­a,Mataderos  2312,MÃ©xico D.F.,NULL,05023,Mexico
+10856,1998-02-25 00:00:00.000,1998-02-10 00:00:00.000,58.43,Antonio Moreno TaquerÃ­a,Mataderos  2312,MÃ©xico D.F.,NULL,05023,Mexico
+10535,1997-06-10 00:00:00.000,1997-05-21 00:00:00.000,15.64,Antonio Moreno TaquerÃ­a,Mataderos  2312,MÃ©xico D.F.,NULL,05023,Mexico
+10842,1998-02-17 00:00:00.000,1998-01-29 00:00:00.000,54.42,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,NULL,05033,Mexico
+10293,1996-09-26 00:00:00.000,1996-09-11 00:00:00.000,21.18,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,NULL,05033,Mexico
+10915,1998-03-27 00:00:00.000,1998-03-02 00:00:00.000,3.51,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,NULL,05033,Mexico
+11069,1998-06-01 00:00:00.000,1998-05-06 00:00:00.000,15.67,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,NULL,05033,Mexico
+10276,1996-08-22 00:00:00.000,1996-08-14 00:00:00.000,13.84,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,NULL,05033,Mexico
+10676,1997-10-20 00:00:00.000,1997-09-29 00:00:00.000,2.01,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,NULL,05033,Mexico
+10304,1996-10-10 00:00:00.000,1996-09-17 00:00:00.000,63.79,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,NULL,05033,Mexico
+10518,1997-05-09 00:00:00.000,1997-05-05 00:00:00.000,218.15,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,NULL,05033,Mexico
+10319,1996-10-30 00:00:00.000,1996-10-11 00:00:00.000,64.50,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,NULL,05033,Mexico
+10576,1997-07-07 00:00:00.000,1997-06-30 00:00:00.000,18.56,Tortuga Restaurante,Avda. Azteca 123,MÃ©xico D.F.,NULL,05033,Mexico
+10259,1996-08-15 00:00:00.000,1996-07-25 00:00:00.000,3.25,Centro comercial Moctezuma,Sierras de Granada 9993,MÃ©xico D.F.,NULL,05022,Mexico
+11073,1998-06-02 00:00:00.000,NULL,24.95,Pericles Comidas clÃ¡sicas,Calle Dr. Jorge Cash 321,MÃ©xico D.F.,NULL,05033,Mexico
+10474,1997-04-10 00:00:00.000,1997-03-21 00:00:00.000,83.49,Pericles Comidas clÃ¡sicas,Calle Dr. Jorge Cash 321,MÃ©xico D.F.,NULL,05033,Mexico
+10502,1997-05-08 00:00:00.000,1997-04-29 00:00:00.000,69.32,Pericles Comidas clÃ¡sicas,Calle Dr. Jorge Cash 321,MÃ©xico D.F.,NULL,05033,Mexico
+10354,1996-12-12 00:00:00.000,1996-11-20 00:00:00.000,53.80,Pericles Comidas clÃ¡sicas,Calle Dr. Jorge Cash 321,MÃ©xico D.F.,NULL,05033,Mexico
+10995,1998-04-30 00:00:00.000,1998-04-06 00:00:00.000,46.00,Pericles Comidas clÃ¡sicas,Calle Dr. Jorge Cash 321,MÃ©xico D.F.,NULL,05033,Mexico
+10322,1996-11-01 00:00:00.000,1996-10-23 00:00:00.000,0.40,Pericles Comidas clÃ¡sicas,Calle Dr. Jorge Cash 321,MÃ©xico D.F.,NULL,05033,Mexico
+10759,1997-12-26 00:00:00.000,1997-12-12 00:00:00.000,11.99,Ana Trujillo Emparedados y helados,Avda. de la ConstituciÃ³n 2222,MÃ©xico D.F.,NULL,05021,Mexico
+10926,1998-04-01 00:00:00.000,1998-03-11 00:00:00.000,39.92,Ana Trujillo Emparedados y helados,Avda. de la ConstituciÃ³n 2222,MÃ©xico D.F.,NULL,05021,Mexico
+10308,1996-10-16 00:00:00.000,1996-09-24 00:00:00.000,1.61,Ana Trujillo Emparedados y helados,Avda. de la ConstituciÃ³n 2222,MÃ©xico D.F.,NULL,05021,Mexico
+10625,1997-09-05 00:00:00.000,1997-08-14 00:00:00.000,43.90,Ana Trujillo Emparedados y helados,Avda. de la ConstituciÃ³n 2222,MÃ©xico D.F.,NULL,05021,Mexico
+10909,1998-03-26 00:00:00.000,1998-03-10 00:00:00.000,53.05,SantÃ© Gourmet,Erling Skakkes gate 78,Stavern,NULL,4110,Norway
+10639,1997-09-17 00:00:00.000,1997-08-27 00:00:00.000,38.64,SantÃ© Gourmet,Erling Skakkes gate 78,Stavern,NULL,4110,Norway
+11015,1998-04-24 00:00:00.000,1998-04-20 00:00:00.000,4.62,SantÃ© Gourmet,Erling Skakkes gate 78,Stavern,NULL,4110,Norway
+10520,1997-05-27 00:00:00.000,1997-05-01 00:00:00.000,13.37,SantÃ© Gourmet,Erling Skakkes gate 78,Stavern,NULL,4110,Norway
+10387,1997-01-15 00:00:00.000,1996-12-20 00:00:00.000,93.63,SantÃ© Gourmet,Erling Skakkes gate 78,Stavern,NULL,4110,Norway
+10831,1998-02-11 00:00:00.000,1998-01-23 00:00:00.000,72.19,SantÃ© Gourmet,Erling Skakkes gate 78,Stavern,NULL,4110,Norway
+10374,1997-01-02 00:00:00.000,1996-12-09 00:00:00.000,3.94,Wolski Zajazd,ul. Filtrowa 68,Warszawa,NULL,01-012,Poland
+10792,1998-01-20 00:00:00.000,1997-12-31 00:00:00.000,23.79,Wolski Zajazd,ul. Filtrowa 68,Warszawa,NULL,01-012,Poland
+10611,1997-08-22 00:00:00.000,1997-08-01 00:00:00.000,80.65,Wolski Zajazd,ul. Filtrowa 68,Warszawa,NULL,01-012,Poland
+10998,1998-04-17 00:00:00.000,1998-04-17 00:00:00.000,20.31,Wolski Zajazd,ul. Filtrowa 68,Warszawa,NULL,01-012,Poland
+11044,1998-05-21 00:00:00.000,1998-05-01 00:00:00.000,8.72,Wolski Zajazd,ul. Filtrowa 68,Warszawa,NULL,01-012,Poland
+10870,1998-03-04 00:00:00.000,1998-02-13 00:00:00.000,12.04,Wolski Zajazd,ul. Filtrowa 68,Warszawa,NULL,01-012,Poland
+10906,1998-03-11 00:00:00.000,1998-03-03 00:00:00.000,26.29,Wolski Zajazd,ul. Filtrowa 68,Warszawa,NULL,01-012,Poland
+10703,1997-11-11 00:00:00.000,1997-10-20 00:00:00.000,152.30,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10533,1997-06-09 00:00:00.000,1997-05-22 00:00:00.000,188.04,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10460,1997-03-28 00:00:00.000,1997-03-03 00:00:00.000,16.27,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10980,1998-05-08 00:00:00.000,1998-04-17 00:00:00.000,1.26,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10264,1996-08-21 00:00:00.000,1996-08-23 00:00:00.000,3.67,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10434,1997-03-03 00:00:00.000,1997-02-13 00:00:00.000,17.92,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10902,1998-03-23 00:00:00.000,1998-03-03 00:00:00.000,44.15,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10378,1997-01-07 00:00:00.000,1996-12-19 00:00:00.000,5.44,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+11001,1998-05-04 00:00:00.000,1998-04-14 00:00:00.000,197.30,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10774,1997-12-25 00:00:00.000,1997-12-12 00:00:00.000,48.20,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10762,1997-12-30 00:00:00.000,1997-12-09 00:00:00.000,328.74,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+11050,1998-05-25 00:00:00.000,1998-05-05 00:00:00.000,59.41,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10993,1998-04-29 00:00:00.000,1998-04-10 00:00:00.000,8.81,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10327,1996-11-08 00:00:00.000,1996-10-14 00:00:00.000,63.36,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10824,1998-02-06 00:00:00.000,1998-01-30 00:00:00.000,1.23,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10561,1997-07-04 00:00:00.000,1997-06-09 00:00:00.000,242.21,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10880,1998-03-24 00:00:00.000,1998-02-18 00:00:00.000,88.01,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10977,1998-04-23 00:00:00.000,1998-04-10 00:00:00.000,208.50,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10955,1998-04-14 00:00:00.000,1998-03-20 00:00:00.000,3.26,Folk och fÃ¤ HB,Ã…kergatan 24,BrÃ¤cke,NULL,S-844 67,Sweden
+10278,1996-09-09 00:00:00.000,1996-08-16 00:00:00.000,92.69,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10280,1996-09-11 00:00:00.000,1996-09-12 00:00:00.000,8.98,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10626,1997-09-08 00:00:00.000,1997-08-20 00:00:00.000,138.69,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10875,1998-03-06 00:00:00.000,1998-03-03 00:00:00.000,32.37,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10444,1997-03-12 00:00:00.000,1997-02-21 00:00:00.000,3.50,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10445,1997-03-13 00:00:00.000,1997-02-20 00:00:00.000,9.30,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10837,1998-02-13 00:00:00.000,1998-01-23 00:00:00.000,13.32,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10924,1998-04-01 00:00:00.000,1998-04-08 00:00:00.000,151.52,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10384,1997-01-13 00:00:00.000,1996-12-20 00:00:00.000,168.64,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10572,1997-07-16 00:00:00.000,1997-06-25 00:00:00.000,116.43,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10654,1997-09-30 00:00:00.000,1997-09-11 00:00:00.000,55.26,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10778,1998-01-13 00:00:00.000,1997-12-24 00:00:00.000,6.79,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10733,1997-12-05 00:00:00.000,1997-11-10 00:00:00.000,110.11,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10689,1997-10-29 00:00:00.000,1997-10-07 00:00:00.000,13.42,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10866,1998-03-03 00:00:00.000,1998-02-12 00:00:00.000,109.11,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10524,1997-05-29 00:00:00.000,1997-05-07 00:00:00.000,244.79,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10672,1997-10-01 00:00:00.000,1997-09-26 00:00:00.000,95.75,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10857,1998-02-25 00:00:00.000,1998-02-06 00:00:00.000,188.85,Berglunds snabbkÃ¶p,BerguvsvÃ¤gen  8,LuleÃ¥,NULL,S-958 22,Sweden
+10686,1997-10-28 00:00:00.000,1997-10-08 00:00:00.000,96.50,Piccolo und mehr,Geislweg 14,Salzburg,NULL,5020,Austria
+10427,1997-02-24 00:00:00.000,1997-03-03 00:00:00.000,31.29,Piccolo und mehr,Geislweg 14,Salzburg,NULL,5020,Austria
+10530,1997-06-05 00:00:00.000,1997-05-12 00:00:00.000,339.22,Piccolo und mehr,Geislweg 14,Salzburg,NULL,5020,Austria
+10844,1998-02-18 00:00:00.000,1998-01-26 00:00:00.000,25.22,Piccolo und mehr,Geislweg 14,Salzburg,NULL,5020,Austria
+10597,1997-08-08 00:00:00.000,1997-07-18 00:00:00.000,35.12,Piccolo und mehr,Geislweg 14,Salzburg,NULL,5020,Austria
+10353,1996-12-11 00:00:00.000,1996-11-25 00:00:00.000,360.63,Piccolo und mehr,Geislweg 14,Salzburg,NULL,5020,Austria
+10392,1997-01-21 00:00:00.000,1997-01-01 00:00:00.000,122.46,Piccolo und mehr,Geislweg 14,Salzburg,NULL,5020,Austria
+10747,1997-12-17 00:00:00.000,1997-11-26 00:00:00.000,117.33,Piccolo und mehr,Geislweg 14,Salzburg,NULL,5020,Austria
+10489,1997-04-25 00:00:00.000,1997-04-09 00:00:00.000,5.29,Piccolo und mehr,Geislweg 14,Salzburg,NULL,5020,Austria
+11053,1998-05-25 00:00:00.000,1998-04-29 00:00:00.000,53.05,Piccolo und mehr,Geislweg 14,Salzburg,NULL,5020,Austria
+10968,1998-04-20 00:00:00.000,1998-04-01 00:00:00.000,74.60,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10633,1997-09-12 00:00:00.000,1997-08-18 00:00:00.000,477.90,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10854,1998-02-24 00:00:00.000,1998-02-05 00:00:00.000,100.22,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+11008,1998-05-06 00:00:00.000,NULL,79.46,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10895,1998-03-18 00:00:00.000,1998-02-23 00:00:00.000,162.75,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10382,1997-01-10 00:00:00.000,1996-12-16 00:00:00.000,94.77,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10430,1997-02-13 00:00:00.000,1997-02-03 00:00:00.000,458.78,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10764,1997-12-31 00:00:00.000,1997-12-08 00:00:00.000,145.45,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10795,1998-01-21 00:00:00.000,1998-01-20 00:00:00.000,126.66,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+11017,1998-05-11 00:00:00.000,1998-04-20 00:00:00.000,754.26,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10390,1997-01-20 00:00:00.000,1996-12-26 00:00:00.000,126.38,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10442,1997-03-11 00:00:00.000,1997-02-18 00:00:00.000,47.94,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10263,1996-08-20 00:00:00.000,1996-07-31 00:00:00.000,146.06,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10368,1996-12-27 00:00:00.000,1996-12-02 00:00:00.000,101.95,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10402,1997-02-13 00:00:00.000,1997-01-10 00:00:00.000,67.88,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10776,1998-01-12 00:00:00.000,1997-12-18 00:00:00.000,351.53,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10836,1998-02-13 00:00:00.000,1998-01-21 00:00:00.000,411.88,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10514,1997-05-20 00:00:00.000,1997-05-16 00:00:00.000,789.95,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10698,1997-11-06 00:00:00.000,1997-10-17 00:00:00.000,272.47,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10979,1998-04-23 00:00:00.000,1998-03-31 00:00:00.000,353.07,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10571,1997-07-29 00:00:00.000,1997-07-04 00:00:00.000,26.06,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10403,1997-01-31 00:00:00.000,1997-01-09 00:00:00.000,73.79,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10258,1996-08-14 00:00:00.000,1996-07-23 00:00:00.000,140.51,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10771,1998-01-07 00:00:00.000,1998-01-02 00:00:00.000,11.19,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10990,1998-05-13 00:00:00.000,1998-04-07 00:00:00.000,117.61,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+11072,1998-06-02 00:00:00.000,NULL,258.64,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10773,1998-01-08 00:00:00.000,1997-12-16 00:00:00.000,96.43,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10595,1997-08-07 00:00:00.000,1997-07-14 00:00:00.000,96.78,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10351,1996-12-09 00:00:00.000,1996-11-20 00:00:00.000,162.33,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+10667,1997-10-10 00:00:00.000,1997-09-19 00:00:00.000,78.09,Ernst Handel,Kirchgasse 6,Graz,NULL,8010,Austria
+11004,1998-05-05 00:00:00.000,1998-04-20 00:00:00.000,44.84,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,NULL,B-1180,Belgium
+10978,1998-04-23 00:00:00.000,1998-04-23 00:00:00.000,32.82,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,NULL,B-1180,Belgium
+10649,1997-09-25 00:00:00.000,1997-08-29 00:00:00.000,6.20,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,NULL,B-1180,Belgium
+10760,1997-12-29 00:00:00.000,1997-12-10 00:00:00.000,155.64,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,NULL,B-1180,Belgium
+10896,1998-03-19 00:00:00.000,1998-02-27 00:00:00.000,32.45,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,NULL,B-1180,Belgium
+10529,1997-06-04 00:00:00.000,1997-05-09 00:00:00.000,66.69,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,NULL,B-1180,Belgium
+10892,1998-03-17 00:00:00.000,1998-02-19 00:00:00.000,120.27,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,NULL,B-1180,Belgium
+10602,1997-08-14 00:00:00.000,1997-07-22 00:00:00.000,2.92,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10769,1998-01-05 00:00:00.000,1997-12-12 00:00:00.000,65.06,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10399,1997-01-14 00:00:00.000,1997-01-08 00:00:00.000,27.36,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10921,1998-04-14 00:00:00.000,1998-03-09 00:00:00.000,176.48,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10946,1998-04-09 00:00:00.000,1998-03-19 00:00:00.000,27.20,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10744,1997-12-15 00:00:00.000,1997-11-24 00:00:00.000,69.19,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10591,1997-07-21 00:00:00.000,1997-07-16 00:00:00.000,55.92,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10465,1997-04-02 00:00:00.000,1997-03-14 00:00:00.000,145.04,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10688,1997-10-15 00:00:00.000,1997-10-07 00:00:00.000,299.09,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10367,1996-12-26 00:00:00.000,1996-12-02 00:00:00.000,13.55,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10994,1998-04-16 00:00:00.000,1998-04-09 00:00:00.000,65.53,Vaffeljernet,Smagsloget 45,Ã…rhus,NULL,8200,Denmark
+10802,1998-01-26 00:00:00.000,1998-01-02 00:00:00.000,257.26,Simons bistro,VinbÃ¦ltet 34,Kobenhavn,NULL,1734,Denmark
+10669,1997-10-13 00:00:00.000,1997-09-22 00:00:00.000,24.39,Simons bistro,VinbÃ¦ltet 34,Kobenhavn,NULL,1734,Denmark
+10556,1997-07-15 00:00:00.000,1997-06-13 00:00:00.000,9.80,Simons bistro,VinbÃ¦ltet 34,Kobenhavn,NULL,1734,Denmark
+10341,1996-11-26 00:00:00.000,1996-11-05 00:00:00.000,26.78,Simons bistro,VinbÃ¦ltet 34,Kobenhavn,NULL,1734,Denmark
+10417,1997-02-13 00:00:00.000,1997-01-28 00:00:00.000,70.29,Simons bistro,VinbÃ¦ltet 34,Kobenhavn,NULL,1734,Denmark
+10642,1997-09-19 00:00:00.000,1997-09-05 00:00:00.000,41.89,Simons bistro,VinbÃ¦ltet 34,Kobenhavn,NULL,1734,Denmark
+11074,1998-06-03 00:00:00.000,NULL,18.44,Simons bistro,VinbÃ¦ltet 34,Kobenhavn,NULL,1734,Denmark
+10270,1996-08-29 00:00:00.000,1996-08-02 00:00:00.000,136.54,Wartian Herkku,Torikatu 38,Oulu,NULL,90110,Finland
+10553,1997-06-27 00:00:00.000,1997-06-03 00:00:00.000,149.49,Wartian Herkku,Torikatu 38,Oulu,NULL,90110,Finland
+10416,1997-02-13 00:00:00.000,1997-01-27 00:00:00.000,22.72,Wartian Herkku,Torikatu 38,Oulu,NULL,90110,Finland
+10750,1997-12-19 00:00:00.000,1997-11-24 00:00:00.000,79.30,Wartian Herkku,Torikatu 38,Oulu,NULL,90110,Finland
+10333,1996-11-15 00:00:00.000,1996-10-25 00:00:00.000,0.59,Wartian Herkku,Torikatu 38,Oulu,NULL,90110,Finland
+10437,1997-03-05 00:00:00.000,1997-02-12 00:00:00.000,19.97,Wartian Herkku,Torikatu 38,Oulu,NULL,90110,Finland
+10583,1997-07-28 00:00:00.000,1997-07-04 00:00:00.000,7.28,Wartian Herkku,Torikatu 38,Oulu,NULL,90110,Finland
+10266,1996-09-06 00:00:00.000,1996-07-31 00:00:00.000,25.73,Wartian Herkku,Torikatu 38,Oulu,NULL,90110,Finland
+10636,1997-09-16 00:00:00.000,1997-08-26 00:00:00.000,1.15,Wartian Herkku,Torikatu 38,Oulu,NULL,90110,Finland
